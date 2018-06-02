@@ -1,0 +1,7 @@
+---
+applications:
+ - name: myspring-app
+   host: mycherry
+   memory: 512M
+   instances: 1
+   path: target/springBootBasics-2-0.0.1-SNAPSHOT.jar
